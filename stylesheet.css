@@ -7,14 +7,14 @@ body {
     text-align: center;
 }
 .container{
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: lightgoldenrodyellow;
     padding: 20px;;
     margin-left: 400px;
     margin-right: 400px;
+    margin-bottom: 15px;
     font-family: 'Courier New', Courier, monospace;
     font-style: initial;
-    animation-play-state: paused;
 }
 .box{
     width: 100%;
