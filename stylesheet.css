@@ -2,6 +2,9 @@ body {
     background-color: rgb(110, 212, 212);
     margin: 0px;
     padding: 0px;
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .header{
     text-align: center;
